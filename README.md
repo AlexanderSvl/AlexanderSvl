@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Svilarov</h1>
+<p>I am a student, currently working on projects, that include Angular, C#, Entity Framework, HTML & CSS and more. I am looking forward to learning as much as I can and begin my journey in Software ENgineering!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
