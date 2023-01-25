@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning **Angular, React, C++, Python**
 
-- A car parts website, that I made: [Autoportal-Car-Parts-Shop](https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop)
-- Here you can see the deployment: https://alexandersvl.github.io/Autoportal-Car-Parts-Shop/
+- A car parts website, that I made: [Autoportal-Car-Parts-Shop](https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop) - Here you can see the deployment: https://alexandersvl.github.io/Autoportal-Car-Parts-Shop/
 
 - First steps in implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder) 
 
