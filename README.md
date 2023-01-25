@@ -7,10 +7,10 @@
 
 - First steps in implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder) 
 
-- 📫 How to reach me **aleksander.svilarovv@gmail.com**
+- 📫 Email: **aleksander.svilarovv@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Other contacts with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/alexander svilarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander svilarov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/alexander-svilarov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alexander-svilarov" height="30" width="40" /></a>
 <a href="https://instagram.com/alex.svl7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex.svl7" height="30" width="40" /></a>
