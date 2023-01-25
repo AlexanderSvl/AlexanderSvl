@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Svilarov</h1>
+<br>
 <p>I am a student, currently working on projects, that include Angular, C#, Entity Framework, HTML & CSS and more. I am looking forward to learning as much as I can and begin my journey in Software ENgineering!</p>
 
 - 🌱 I’m currently learning **Angular, React, C++, Python**
@@ -8,6 +9,7 @@
 - First steps in implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder) 
 
 - 📫 Email: **aleksander.svilarovv@gmail.com**
+<br>
 
 <h3 align="center">Other contacts with me:</h3>
 <p align="center">
