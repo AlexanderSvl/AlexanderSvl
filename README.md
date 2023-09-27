@@ -19,9 +19,14 @@
 
 <div style="display: flex; flex-direction: row;">
   <<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandersvl&show_icons=true&locale=en&layout=compact"   alt="alexandersvl"/>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandersvl&show_icons=true&locale=en" alt="alexandersvl" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandersvl&" alt="alexandersvl" />
+</div>
+
+<div style="display: flex; flex-direction: row;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandersvl&show_icons=true&locale=en" alt="alexandersvl" />
+</div>
+
+<div style="display: flex; flex-direction: row;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandersvl&" alt="alexandersvl" />
 </div>
 
 
