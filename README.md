@@ -22,15 +22,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandersvl&show_icons=true&locale=en&layout=compact"   alt="alexandersvl"/>
 </p>
 
-<div style="margin: auto;  width: 100%%;">
-</div>
-
-<div style="display: flex; flex-direction: row; text-allign: center">
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandersvl&show_icons=true&locale=en" alt="alexandersvl" />
-</div>
+</p>
 
-<div style="display: flex; flex-direction: row;">
+<p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandersvl&" alt="alexandersvl" />
-</div>
-
+</p>
 
