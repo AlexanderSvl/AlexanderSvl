@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Svilarov</h1>
 - A car parts website, that I made: [Autoportal-Car-Parts-Shop](https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop)
 
-- 🌱 I’m currently learning **Angular, React, C++, Python**
+- 🌱 I’m currently learning **Artificial Intelligence, C++, SQL Advanced, Python**
 
 - First steps in implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder)
 
