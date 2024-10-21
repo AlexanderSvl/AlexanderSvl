@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Svilarov</h1>
 
-<h3 align="center">A passionate full-stack developer from Bulgaria. Currently a student in the Technical University of Sofia, studying Smart Systems and Artificial Intelligence (SSAI). Profficient at C# .NET Development, AngularTS, ReactJS, C++ Development, SQL</h3>
+<h3 align="center">A passionate full-stack developer from Bulgaria. Currently a student in the Technical University of Sofia, studying Smart Systems and Artificial Intelligence (SSAI). Experienced with C# .NET Development, AngularTS, ReactJS, C++ Development, SQL</h3>
 
 <h1>Projects</h1>
 - First steps into implementing AI into a project:  <a href="https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder" target="_blank"> Caesar-Cipher-Decoder-And-Encoder </a><br/>
