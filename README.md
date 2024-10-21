@@ -7,7 +7,7 @@
 - A car trading platform, providing advanced search mechanisms and user friendly UI:  <a href="https://github.com/AlexanderSvl/CarTradeWebsite" target="_blank"> CarTrade </a><br/>
 - A car parts trading platform:  <a href="https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop" target="_blank"> Autoportal </a><br/><br/>
 
-<h1>Information</h1>
+<h2>Information</h2>
 - 🌱 I’m currently learning **Artificial Intelligence, C++**<br/>
 - 💬 Ask me about **C# .NET Development, AngularTS, ReactJS, Entity Framework Core**<br/>
 - 📫 Email: **aleksander.svliarovv@gmail.com**<br/>
