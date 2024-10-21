@@ -3,11 +3,9 @@
 <h3 align="center">A passionate full-stack developer from Bulgaria. Currently a student in the Technical University of Sofia, studying Smart Systems and Artificial Intelligence (SSAI).</h3>
 
 <h1>Projects</h1>
-- First steps into implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder)
-
-- A car trading platform, providing advanced search mechanisms and user friendly UI: [CarTrade](https://github.com/AlexanderSvl/CarTradeWebsite)
-  
-- A car parts trading platform: [Autoportal](https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop)
+- First steps into implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder)<br/>
+- A car trading platform, providing advanced search mechanisms and user friendly UI: [CarTrade](https://github.com/AlexanderSvl/CarTradeWebsite)<br/>
+- A car parts trading platform: [Autoportal](https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop)<br/>
 
 - 🌱 I’m currently learning **Artificial Intelligence, C++**
 - 💬 Ask me about **C# .NET Development, AngularTS, ReactJS, Entity Framework Core**
