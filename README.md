@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Svilarov</h1>
 
-<h3 align="center">A passionate full-stack developer from Bulgaria. Currently a student in the Technical University of Sofia, studying Smart Systems and Artificial Intelligence (SSAI).</h3>
+<h3 align="center">A passionate full-stack developer from Bulgaria. Currently a student in the Technical University of Sofia, studying Smart Systems and Artificial Intelligence (SSAI). Profficient at C# .NET Development, AngularTS, ReactJS, C++ Development, SQL</h3>
 
 <h1>Projects</h1>
 - First steps into implementing AI into a project:  <a href="https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder" target="_blank"> Caesar-Cipher-Decoder-And-Encoder </a><br/>
 - A car trading platform, providing advanced search mechanisms and user friendly UI:  <a href="https://github.com/AlexanderSvl/CarTradeWebsite" target="_blank"> CarTrade </a><br/>
 - A car parts trading platform:  <a href="https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop" target="_blank"> Autoportal </a><br/><br/>
 
+<h1>More about me</h1>
 - 🌱 I’m currently learning **Artificial Intelligence, C++**
 - 💬 Ask me about **C# .NET Development, AngularTS, ReactJS, Entity Framework Core**
 - 📫 Email: **aleksander.svliarovv@gmail.com**
