@@ -4,7 +4,9 @@
 
 <h1>Projects</h1>
 - First steps into implementing AI into a project: [Caesar-Cipher-Decoder-And-Encoder](https://github.com/AlexanderSvl/CaesarCipherDecoderAndEncoder)
+
 - A car trading platform, providing advanced search mechanisms and user friendly UI: [CarTrade](https://github.com/AlexanderSvl/CarTradeWebsite)
+  
 - A car parts trading platform: [Autoportal](https://github.com/AlexanderSvl/Autoportal-Car-Parts-Shop)
 
 - 🌱 I’m currently learning **Artificial Intelligence, C++**
